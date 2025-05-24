@@ -1,9 +1,9 @@
 # E-Pay
 
 ### A C language based E-Sewa prototype 
-- C programming project for college
+- C programming project in my 1st semester of BE
 <br>
 -Made by 
 <br>
-Yogendra Sharma Upadhyaya <br>
+Saurav Gaudel<br>
 
